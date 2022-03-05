@@ -8,7 +8,7 @@
 
 # Development Tool's
 
-Front End: HTML, CSS, JavaScript’s
+Front End: HTML, CSS, JavaScript’s | 
 Back End: JAVA, JSP, SERVLETS, JDBC, MYSQL
  
 
